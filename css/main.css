@@ -190,7 +190,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: #b10dc9;
+  background: #3d9970;
   -webkit-transform: scaleX(0);
   -ms-transform: scaleX(0);
   transform: scaleX(0);
@@ -227,7 +227,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: #b10dc9;
+  background: #3d9970;
   -webkit-transform: scaleX(1);
   -ms-transform: scaleX(1);
   transform: scaleX(1);
@@ -247,7 +247,7 @@
 
 .main-nav li a.active {
   color: #ffffff;
-  background: #b10dc9;
+  background: #3d9970;
 }
 
 .main-nav ul li a i {
@@ -276,8 +276,8 @@
 }
 
 .social a:hover {
-  border: 2px solid #b10dc9;
-  color: #b10dc9;
+  border: 2px solid #3d9970;
+  color: #3d9970;
 }
 
 .bottom-header p {
@@ -385,7 +385,7 @@
 }
 
 .skill.dev .progress {
-  border: 1px solid #b10dc9;
+  border: 1px solid #3d9970;
 }
 
 .skill.prs .progress {
@@ -408,7 +408,7 @@
 }
 
 .skill.dev .progress .percentage {
-  background-color: #b10dc9;
+  background-color: #3d9970;
 }
 
 .skill.prs .progress .percentage {
@@ -448,7 +448,7 @@
 }
 
 .skill .title.dev {
-  border: 1px dashed #b10dc9;
+  border: 1px dashed #3d9970;
 }
 
 .skill .title.prs {
@@ -520,7 +520,7 @@
 }
 
 .exp:after {
-  background: #b10dc9;
+  background: #3d9970;
   border: 3px solid #ffffff;
   content: "";
   height: 15px;
@@ -556,7 +556,7 @@
 
 .exp .hgroup h6 span.current {
   color: #ffffff;
-  background: #b10dc9;
+  background: #3d9970;
   border-radius: 6px;
   -moz-border-radius: 6px -webkit-border-radius:6px;
   -ms-border-radius: 6px;
@@ -571,7 +571,7 @@
 .block.service .ico {
   font-size: 30px;
   margin-bottom: 10px;
-  color: #b10dc9;
+  color: #3d9970;
 }
 
 .block-quote {
@@ -653,11 +653,11 @@
 }
 
 .filter li a:hover {
-  color: #b10dc9;
+  color: #3d9970;
 }
 
 .filter li a.active {
-  color: #b10dc9;
+  color: #3d9970;
 }
 
 .item {
@@ -742,7 +742,7 @@
 }
 
 .block-nav-work li a:hover {
-  color: #b10dc9;
+  color: #3d9970;
 }
 
 .block-single h1.large-title {
@@ -770,7 +770,7 @@
 }
 
 span.meta-date {
-  background: #b10dc9;
+  background: #3d9970;
   border-radius: 6px;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -799,7 +799,7 @@ span.meta-date {
 }
 
 .post-meta li a {
-  color: #b10dc9;
+  color: #3d9970;
 }
 
 .post-meta i {
@@ -843,7 +843,7 @@ span.meta-date {
 }
 
 .search-form input[type="text"] {
-  background: #b10dc9;
+  background: #3d9970;
   color: #ffffff;
   font-size: 12px;
   border: none;
@@ -953,7 +953,7 @@ span.meta-date {
   color: #ffffff;
   font-size: 12px;
   text-transform: uppercase;
-  background: #b10dc9;
+  background: #3d9970;
   border-radius: 6px;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -968,7 +968,7 @@ span.meta-date {
 .comment-content .date a {
   display: inline-block;
   font-size: 11px;
-  color: #b10dc9;
+  color: #3d9970;
   position: relative;
   top: -5px;
 }
@@ -1015,7 +1015,7 @@ span.meta-date {
 }
 
 .pagination ul li a.selected {
-  color: #b10dc9;
+  color: #3d9970;
 }
 
 .pagination ul li i {
@@ -1109,7 +1109,7 @@ span.meta-date {
 }
 
 .errorForm {
-  border: 1px solid #b10dc9 !important;
+  border: 1px solid #3d9970 !important;
 }
 
 .info-holder {
@@ -1131,7 +1131,7 @@ span.meta-date {
 }
 
 .address-info i {
-  background: #b10dc9;
+  background: #3d9970;
   color: #ffffff;
   display: inline-block;
   font-size: 28px;

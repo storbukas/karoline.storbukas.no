@@ -181,7 +181,7 @@ p {
 }
 
 .divider-m .zigzag.medium, .divider .zigzag.large {
-  stroke: #b10dc9;
+  stroke: #3d9970;
   stroke-width: 4.3;
 }
 
@@ -245,11 +245,11 @@ p {
 }
 
 .but.opc-2 {
-  background: #b10dc9;
+  background: #3d9970;
 }
 
 .but.opc-3 {
-  background: #b10dc9;
+  background: #3d9970;
 }
 
 .but.opc-1.ico, .but.opc-2.ico, .but.opc-3.ico {
